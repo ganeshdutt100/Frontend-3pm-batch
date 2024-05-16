@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding:10px 20px;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.section{
+    display: flex;
+    justify-content: space-around;
+}
+.card{ 
+    text-align: center;
+}
+.card img{}
+.card p{}
